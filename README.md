@@ -16,7 +16,7 @@ or
 yarn
 ```
 
-**初始化项目的错误记录：[ErrorRecord.md]()**
+**初始化项目的错误记录：[ErrorRecord.md](https://github.com/YuqingXiong/user-center-frontend/blob/master/ErrorRecord.md)**
 
 还使用了 umi 来快速开发前端页面：
 
